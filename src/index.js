@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs').promises;
 const xmlbuilder = require('xmlbuilder');
 const { createCanvas, loadImage } = require('canvas');
