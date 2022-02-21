@@ -1,0 +1,13 @@
+{
+  "name": "simplefont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Rémi Vansteelandt",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "xmlbuilder": "^15.1.1"
+  }
+}
